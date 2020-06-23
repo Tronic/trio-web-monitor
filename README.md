@@ -28,7 +28,7 @@ use of browser UI. Currently such efforts are quite scattered.
 
 - https://github.com/darrenburns/python-debugger
 - https://github.com/syncrypt/trio-inspector
-- [Nice tracebacks notebook](https://colab.research.google.com/drive/1Gx16MfcgkqMCuFn8fAgm7YWGytypmtwE)
+- https://github.com/Tronic/niceback
 
 I would like to see some of the above projects unified, as they have similar
 and overlapping goals, and probably none of the developers involved actually
